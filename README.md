@@ -1,7 +1,6 @@
 # Hi, I'm Ash  
 
-I like working on **complex real-world problems** and finding solutions through code.  
-Also a proud member of the *Church of `vi`*. 
+I like building tools, products, and open-source projects that solve real-world problems. Also a proud member of the *Church of `vi`*. 
 
 ---
 
@@ -13,8 +12,8 @@ Also a proud member of the *Church of `vi`*.
 ---
 
 ## Current Projects  
-- **[LifeSync](#)** → Open-source calendar that manages time with AI *(Svelte + Go + HTML + SCSS)*  
-- **[Lambda](#)** → Personal website showcasing portfolio *(Svelte + JS + HTML + SCSS)*  
+- **[LifeSync](https://github.com/curryhowardbadnullpointergood/LifeSync)** → Open-source calendar that manages time with AI *(Svelte + Go + HTML + SCSS)*  
+- **[Lambda](https://github.com/curryhowardbadnullpointergood/Lambdatheultimate)** → Personal website showcasing portfolio *(Svelte + JS + HTML + SCSS)*  
 
 ---
 
@@ -30,3 +29,5 @@ Also a proud member of the *Church of `vi`*.
 - Hackathon wins + organized university events  
 - Math Olympiads & competitive programming (ICPC)  
 - Open source + building projects in public  
+
+
