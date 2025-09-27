@@ -1,28 +1,32 @@
-<div align="center"> 
+# 👋 Hi, I'm Ash  
 
-    <p> Hi, I'm Ash, I like working on comlex real world problems and finding solutions through code. Also a member of the church of vi.</p>
+I like working on **complex real-world problems** and finding solutions through code.  
+Also a proud member of the *Church of `vi`*. ⛪️  
 
-    <p> You can find me here: </p>
-    - Website: [www.lambdatheultimate.com]
-    - Blog: [www.lambdatheultimate.com/blog]
-    - YouTube: [https://www.youtube.com/@theseaispretty]
+---
 
-    <p> Current Projects: </p>
-    LifeSync: -> open source calendar that manages your time using AI (Svelte + Go + HTML + SCSS) 
-    Lambda: -> Personal website that showcases my portfolio (Svelte + JS + HTML + SCSS)
+## 🌍 Find Me Online  
+- 🌐 [Website](https://www.lambdatheultimate.com)  
+- ✍️ [Blog](https://www.lambdatheultimate.com/blog)  
+- 🎥 [YouTube](https://www.youtube.com/@theseaispretty)  
 
-    <p>ToolKit</p>
-    Languages: Python | Java | Golang | JavaScript/TypeScript | OCaml | Rust  
-    Frameworks: Svelte | React | Node.js   
-    Other: Git | Docker | Linux | SQL
+---
 
-    <p>Journey So Far</p>
-    MSc Computer Science @ University of Southampton
-    Hackathon wins + organized events at university
-    Math Olympiads + Problem Solving 
-    Open source + building projects in public
+## 🚀 Current Projects  
+- **[LifeSync](#)** → Open-source calendar that manages time with AI *(Svelte + Go + HTML + SCSS)*  
+- **[Lambda](#)** → Personal website showcasing portfolio *(Svelte + JS + HTML + SCSS)*  
 
-  
+---
 
+## 🛠️ Toolkit  
+**Languages:** Python · Java · Go · JavaScript/TypeScript · OCaml · Rust  
+**Frameworks:** Svelte · React · Node.js  
+**Other:** Git · Docker · Linux · SQL  
 
-</div>
+---
+
+## 🏆 Journey So Far  
+- 🎓 MSc Computer Science @ University of Southampton  
+- 🥇 Hackathon wins + organized university events  
+- 🧮 Math Olympiads & competitive programming (ICPC)  
+- 🌐 Open source contributor + building projects in public  
