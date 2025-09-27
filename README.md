@@ -1,14 +1,14 @@
 # Hi, I'm Ash  
 
 I like working on **complex real-world problems** and finding solutions through code.  
-Also a proud member of the *Church of `vi`*. ⛪️  
+Also a proud member of the *Church of `vi`*. 
 
 ---
 
 ## Find Me Online  
-- 🌐 [Website](https://www.lambdatheultimate.com)  
-- ✍️ [Blog](https://www.lambdatheultimate.com/blog)  
-- 🎥 [YouTube](https://www.youtube.com/@theseaispretty)  
+- [Website](https://www.lambdatheultimate.com)  
+- [Blog](https://www.lambdatheultimate.com/blog)  
+- [YouTube](https://www.youtube.com/@theseaispretty)  
 
 ---
 
@@ -26,7 +26,7 @@ Also a proud member of the *Church of `vi`*. ⛪️
 ---
 
 ## Journey So Far  
-- 🎓 MSc Computer Science @ University of Southampton  
-- 🥇 Hackathon wins + organized university events  
-- 🧮 Math Olympiads & competitive programming (ICPC)  
-- 🌐 Open source + building projects in public  
+- MSc Computer Science @ University of Southampton  
+- Hackathon wins + organized university events  
+- Math Olympiads & competitive programming (ICPC)  
+- Open source + building projects in public  
