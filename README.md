@@ -19,7 +19,7 @@ I like building tools, products, and open-source projects that solve real-world 
 
 ##  Toolkit  
 **Languages:** Python · Java · Go · JavaScript/TypeScript · OCaml · Rust  
-**Frameworks:** Svelte · React · Node.js · Wails
+**Frameworks:** Svelte · React · Node.js · Wails 
 **Other:** Git · Docker · Linux · SQL  
 
 ---
